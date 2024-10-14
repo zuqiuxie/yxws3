@@ -79,8 +79,8 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
    :maxdepth: 2
    :hidden:
 
-   c01/c01_001
-   c01/c01_002
+   c01/c01_001.md
+   c01/c01_002.md
 
 
 .. toctree::
