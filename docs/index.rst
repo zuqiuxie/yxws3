@@ -75,6 +75,18 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
     demo/api
 
 .. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: 1 妇产科疾病 （124）
+    :hidden:
+
+    demo/c01/c01_001
+    demo/c01/c01_002
+    demo/c01/c01_003
+    demo/c01/c01_004
+    demo/c01/c01_005
+
+.. toctree::
     :maxdepth: 3
     :numbered:
     :caption: 这是一个很长的菜单的超长标题
