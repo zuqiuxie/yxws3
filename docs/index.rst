@@ -80,6 +80,7 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
    :hidden:
 
    c01/c01_001
+   c01/c01_002
 
 
 .. toctree::
